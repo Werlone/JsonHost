@@ -1,18 +1,19 @@
-{
+[
+  {
   "id": "1",
   "name": "Book1",
   "author": "Author1",
   "genre": "Fantasy",
   "price": "15.99"
-}
-{
+  }
+  {
   "id": "2",
   "name": "Book2",
   "author": "Author2",
   "genre": "Thriller",
   "price": "15.99"
-}
-{
+  }
+  {
   "id": "3",
   "name": "Book3",
   "author": "Author3",
@@ -138,3 +139,4 @@
   "genre": "Horror",
   "price": "15.99"
 }
+]
